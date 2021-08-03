@@ -1,0 +1,7 @@
+colocar interface
+colocar um "escolhedor" de mapas
+
+implementar "delta time"
+
+colocar tiros traçantes
+melhorar os graficos
